@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\USER\source\repos\Project2\Project2\Source.cpp(40,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\USER\source\repos\Project2\Project2\Source.cpp(41,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\USER\source\repos\Project2\Project2\Source.cpp(67): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  Project2.vcxproj -> C:\Users\USER\source\repos\Project2\x64\Debug\Project2.exe
